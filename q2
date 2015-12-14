@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+upstream generally refers to the original repo that you have forked. i.e makersacademy
+origin is your clone of the above 
